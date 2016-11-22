@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>RSS subscriptions for kavehmz@gmail.com</title>
+    <dateCreated>Mon, 21 Nov 2016 17:34:46 -0600</dateCreated>
+    <ownerEmail>kavehmz@gmail.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Coder" title="Coder">
+<outline text="HTML5Rocks" title="HTML5Rocks" type="rss" xmlUrl="http://feeds.feedburner.com/html5rocks" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=647030be6aceb6d005c3775a1c19401c"/>
+<outline text="James Hague" title="James Hague" type="rss" xmlUrl="http://prog21.dadgum.com/atom.xml" htmlUrl="http://prog21.dadgum.com/"/>
+<outline text="good coders code, great reuse" title="good coders code, great reuse" type="rss" xmlUrl="http://feeds.feedburner.com/catonmat" htmlUrl="http://www.catonmat.net"/>
+<outline text="Postgresql" title="Postgresql" type="rss" xmlUrl="http://planet.postgresql.org/rss20.xml" htmlUrl="http://planet.postgresql.org"/>
+<outline text="Lambda the Ultimate" title="Lambda the Ultimate" type="rss" xmlUrl="http://lambda-the-ultimate.org/rss.xml" htmlUrl="http://lambda-the-ultimate.org"/>
+<outline text="Heroku Postgres | Blog" title="Heroku Postgres | Blog" type="rss" xmlUrl="https://postgres.heroku.com/blog/feed" htmlUrl="http://blog.heroku.com"/>
+<outline text="Six Revisions" title="Six Revisions" type="rss" xmlUrl="http://feeds.feedburner.com/SixRevisions" htmlUrl="http://sixrevisions.com"/>
+<outline text="You've Been Haacked" title="You've Been Haacked" type="rss" xmlUrl="http://feeds.haacked.com/haacked/" htmlUrl="http://haacked.com/"/>
+<outline text="Programming Praxis" title="Programming Praxis" type="rss" xmlUrl="http://programmingpraxis.com/feed/" htmlUrl="https://programmingpraxis.com"/>
+<outline text="Fog Creek Blog" title="Fog Creek Blog" type="rss" xmlUrl="http://feeds.feedburner.com/FogCreekBlog" htmlUrl="https://www.fogcreek.com/blog"/>
+<outline text="The Endeavour" title="The Endeavour" type="rss" xmlUrl="http://feeds.feedburner.com/TheEndeavour?format=xml" htmlUrl="http://www.johndcook.com/blog"/>
+<outline text="A List Apart" title="A List Apart" type="rss" xmlUrl="http://www.alistapart.com/rss.xml" htmlUrl="http://alistapart.com"/>
+<outline text="perltricks.com" title="perltricks.com" type="rss" xmlUrl="http://perltricks.com/feed/rss" htmlUrl="http://perltricks.com"/>
+<outline text="Signal v. Noise - Medium" title="Signal v. Noise - Medium" type="rss" xmlUrl="https://signalvnoise.com/posts.rss" htmlUrl="https://m.signalvnoise.com?source=rss----668e14b18fb1---4"/>
+<outline text="The Go Programming Language" title="The Go Programming Language" type="rss" xmlUrl="https://www.reddit.com/r/golang/.rss" htmlUrl="https://www.reddit.com/r/golang/"/>
+<outline text="Perl" title="Perl" type="rss" xmlUrl="https://www.reddit.com/r/perl/.rss" htmlUrl="https://www.reddit.com/r/perl/"/>
+<outline text="Scala" title="Scala" type="rss" xmlUrl="https://www.reddit.com/r/scala/.rss" htmlUrl="https://www.reddit.com/r/scala/"/>
+    </outline>
+  </body>
+</opml>

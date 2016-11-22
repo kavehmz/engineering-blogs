@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>RSS subscriptions for kavehmz@gmail.com</title>
+    <dateCreated>Mon, 21 Nov 2016 17:34:26 -0600</dateCreated>
+    <ownerEmail>kavehmz@gmail.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Business" title="Business">
+<outline text="HBR.org" title="HBR.org" type="rss" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/" htmlUrl="http://hbr.org"/>
+<outline text="HBR.org - Management Tip of the Day" title="HBR.org - Management Tip of the Day" type="rss" xmlUrl="http://feeds.harvardbusiness.org/managementtip" htmlUrl="http://hbr.org"/>
+    </outline>
+  </body>
+</opml>

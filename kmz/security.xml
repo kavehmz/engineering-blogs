@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>RSS subscriptions for kavehmz@gmail.com</title>
+    <dateCreated>Mon, 21 Nov 2016 17:34:55 -0600</dateCreated>
+    <ownerEmail>kavehmz@gmail.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Security" title="Security">
+<outline text="Krebs on Security" title="Krebs on Security" type="rss" xmlUrl="http://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com"/>
+<outline text="The Register - Security" title="The Register - Security" type="rss" xmlUrl="http://www.theregister.co.uk/security/headlines.atom" htmlUrl="http://www.theregister.co.uk/security/"/>
+<outline text="LinuxSecurity.com" title="LinuxSecurity.com" type="rss" xmlUrl="http://www.linuxsecurity.com/static-content/linuxsecurity_hybrid.rss" htmlUrl="http://www.linuxsecurity.com/"/>
+<outline text="Threatpost" title="Threatpost" type="rss" xmlUrl="http://threatpost.com/feed" htmlUrl="http://threatpost.com"/>
+<outline text="Naked Security" title="Naked Security" type="rss" xmlUrl="https://nakedsecurity.sophos.com/feed/" htmlUrl="https://nakedsecurity.sophos.com"/>
+    </outline>
+  </body>
+</opml>

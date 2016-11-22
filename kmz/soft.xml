@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>RSS subscriptions for kavehmz@gmail.com</title>
+    <dateCreated>Mon, 21 Nov 2016 17:35:03 -0600</dateCreated>
+    <ownerEmail>kavehmz@gmail.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Soft" title="Soft">
+<outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="https://slashdot.org/"/>
+<outline text="OSNews" title="OSNews" type="rss" xmlUrl="http://www.osnews.com/files/recent.xml" htmlUrl="http://www.osnews.com"/>
+<outline text="The Register - Software" title="The Register - Software" type="rss" xmlUrl="http://www.theregister.co.uk/software/headlines.atom" htmlUrl="http://www.theregister.co.uk/software/"/>
+<outline text="The Official Google Blog" title="The Official Google Blog" type="rss" xmlUrl="http://googleblog.blogspot.com/atom.xml" htmlUrl="https://blog.google/"/>
+<outline text="Hacker News: Newest" title="Hacker News: Newest" type="rss" xmlUrl="http://hnrss.org/newest?points=5" htmlUrl="https://news.ycombinator.com/newest"/>
+<outline text="Recent Questions - Software Engineering Stack Exchange" title="Recent Questions - Software Engineering Stack Exchange" type="rss" xmlUrl="http://softwareengineering.stackexchange.com/feeds" htmlUrl="http://softwareengineering.stackexchange.com/questions"/>
+    </outline>
+  </body>
+</opml>
